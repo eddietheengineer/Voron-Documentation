@@ -4,17 +4,47 @@ Welcome to the Voron-Documentation repository! It is divided into the following 
 ## Official Documentation
 
 1. Overview
-2. About Us
+2. About Voron
 3. Choosing a Printer
+   1. Printers
+      1. V1
+      2. V2
+      3. V0
+      4. Switchwire
+   2. Extruders
+      1. Mobius
+      2. Clockwork
+      3. Pocketwatch
+      4. Galileo
+      5. Jetpack
 4. Sourcing Information
+   1. Printing Parts
+   2. Ordering Components
+   3. Recommended Tools
 5. Mechanical Assembly
-   1. Build Manuals
-6. Electrical Wiring/Controller Configuration
-7. Klipper Setup
-8. First Print
-9. Tuning Guides
-10. Maintenance
-11. Voron History/Past Printers
+   1. General Tips & Tricks
+   2. Build Manuals
+6. Electrical Wiring
+   1. General Wiring Tips
+   2. Printer/Controller Specific Guides
+7. Klipper Installation
+   1. Octoprint
+   2. MainsailOS
+   3. FluiddPi
+8. Initial Printer Checks
+9. First Print
+   1. Cura
+   2. PrusaSlicer
+   3. SuperSlicer
+   4. KISS
+10. Tuning Guides
+    1. Insurgus's Tests
+    2. Pressure Advance
+    3. Bed Mesh
+    4. Input Shaper
+11. Maintenance
+    1. Tips from PIF
+12. Voron History/Past Printers
 
 
 
