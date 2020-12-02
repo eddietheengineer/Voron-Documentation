@@ -12,7 +12,7 @@ Welcome to the Voron-Documentation repository! It is divided into the following 
       3. V0
       4. Switchwire
    2. Extruders
-      1. Mobius
+      1. M-Series
       2. Clockwork
       3. Pocketwatch
       4. Galileo
@@ -51,18 +51,19 @@ Welcome to the Voron-Documentation repository! It is divided into the following 
 ## Community Documentation
 
 1. How To Guides
-   1. Assembling Limit Switches
-   2. Belting the Gantry
-   3. Gantry Assembly Guide
-   4. Modify 20T Pulleys
-   5. Clean Linear Rails
-   6. PT100 Setup
-   7. RAMPS 24V Conversion
-   8. V6 Hotend Assembly
-   9. Drill and Counterbore Voron Bed
-   10. Calculating driver current settings
-   11. Add LED Lighting
-   12. Tensioning Belts
+   1. Squaring your frame
+   2. Assembling Limit Switches
+   3. Belting the Gantry
+   4. Gantry Assembly Guide
+   5. Modify 20T Pulleys
+   6. Clean/Greasing Linear Rails
+   7. PT100 Setup
+   8. RAMPS 24V Conversion
+   9. V6 Hotend Assembly
+   10. Drill and Counterbore Voron Bed
+   11. Calculating driver current settings
+   12. Add LED Lighting
+   13. Tensioning Belts
 2. Troubleshooting
    1. Twisted X Extrusion
    2. Uneven First Layer
